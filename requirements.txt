@@ -1,2 +1,11 @@
 openai
 streamlit
+plotly
+pandas
+yfinance
+pytz
+statsmodels
+prophet
+sklearn
+itertools
+datetime
