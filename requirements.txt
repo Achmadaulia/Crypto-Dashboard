@@ -6,6 +6,5 @@ yfinance
 pytz
 statsmodels
 prophet
-sklearn
-itertools
-datetime
+scikit-learn
+numpy
